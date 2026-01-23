@@ -202,7 +202,8 @@ object-fit: cover;
 @media (max-width: 768px) {
 
     body {
-        padding: 20px;
+        min-height: 100vh;
+  height: auto;
     }
 
     header {
@@ -242,6 +243,7 @@ object-fit: cover;
         padding-top: 5px;
          margin-top: -40px;
          gap: 0;
+         margin-bottom: 18px;
     }
 
     .home-detail h1 {
