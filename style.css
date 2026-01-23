@@ -240,7 +240,7 @@ object-fit: cover;
         flex-direction: column-reverse;
         height: auto;
         text-align: center;
-        padding-top: 5px;
+        padding-top: 33px;
          margin-top: -40px;
          gap: 0;
          margin-bottom: 18px;
@@ -298,4 +298,5 @@ object-fit: cover;
         height: 35vw;
     }
 }
+
 
